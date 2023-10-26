@@ -1,11 +1,3 @@
-"""
-pedir para a pessoa digitar uma frase
-cryptografar a frase
-pedir 2 senhas ou o padrao
-descryptografar 
-pedir para a pessoa digitar as senhas ou o padrao
-"""
-
 lista_com_a_frase_criptografada = []
 lista_com_a_frase_descpriptografada =  []
 
